@@ -1,0 +1,15 @@
+{
+  "name": "removemarkdown-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "remove-markdown": "^0.5.0"
+  }
+}
